@@ -1,4 +1,4 @@
-# SnapBotter - Mouse Recorder
+# SnapBotter - Ghost0Dev
 
 SnapBotter is a simple Python tool for recording and replaying mouse movements and clicks.
 
