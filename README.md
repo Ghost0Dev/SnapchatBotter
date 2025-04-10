@@ -19,9 +19,8 @@ pip install pyautogui keyboard colorama
 ## Usage
 Run the script with Python:
 ```sh
-python scriptname.py
+python SnapBotter.py
 ```
-Replace `scriptname.py` with the actual filename.
 
 ### Controls
 - **[R]** Start recording
@@ -35,5 +34,3 @@ Replace `scriptname.py` with the actual filename.
 - **Playback with delay:** It can replay the recorded actions with variable delays.
 - **Random pauses:** For a more realistic playback, random wait times are included.
 
-## Note
-This script is created for experimental purposes. Use it responsibly!
